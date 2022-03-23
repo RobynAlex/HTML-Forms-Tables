@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: lavender;
+}
+
+
+div {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    margin: 6px;
+    border-radius: 10%;
+}
+
+button:hover {
+    background-color: pink;
+    color:black
+
+}
+
+#career {
+    padding: 3rem;
+}
